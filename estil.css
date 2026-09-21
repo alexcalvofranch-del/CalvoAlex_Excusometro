@@ -1,0 +1,23 @@
+h1 {
+    margin: 0;
+    background-color:antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: gold;
+    font-size: 5em;
+}
+
+p{
+    line-height: 1.5;
+}
+
+header{
+    padding: 40px;
+    text-align: center;
+}
+
+main {
+    padding: 30px;
+}
